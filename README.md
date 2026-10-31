@@ -67,29 +67,8 @@ I'm a Java Full Stack Developer who enjoys designing and developing reliable, sc
 
 
 
-<!-- GitHub Contribution Snake -->
 
-<div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Sakhil-hossain/Sakhil-hossain/output/github-contribution-grid-snake-dark.svg" />
-
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Sakhil-hossain/Sakhil-hossain/output/github-contribution-grid-snake.svg" />
-
-  <img alt="GitHub Contribution Snake Animation"
-    src="https://raw.githubusercontent.com/Sakhil-hossain/Sakhil-hossain/output/github-contribution-grid-snake.svg"
-    width="100%" />
-</picture>
-
-</div>
-
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 <!-- ================= TECH STACK ================= -->
 
