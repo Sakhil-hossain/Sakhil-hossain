@@ -49,6 +49,12 @@ I'm a Java Full Stack Developer who enjoys designing and developing reliable, sc
 
 ---
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 <!-- ================= TECH STACK ================= -->
 
 ## 🛠️ Technology Stack
