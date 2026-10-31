@@ -85,14 +85,24 @@ I'm a Java Full Stack Developer who enjoys designing and developing reliable, sc
 
 <div align="center">
 
-<br/><br/>
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=Sakhil-hossain&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" height="180" alt="GitHub Overall Statistics"/>
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakhil-hossain&layout=donut&langs_count=6&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="180" alt="Most Used Languages"/>
+</td>
+</tr>
+</table>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Sakhil-hossain&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
+<br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=Sakhil-hossain&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Contribution Streak"/>
 
 </div>
 
 ---
-
 
 
 <!-- ================= FEATURED PROJECTS ================= -->
