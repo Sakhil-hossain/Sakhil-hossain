@@ -13,11 +13,20 @@
   <img src="https://img.shields.io/github/followers/Sakhil-hossain?label=FOLLOWERS&style=flat-square&color=6366f1" alt="Followers"/>
 </p>
 
-<p>
-  <a href="https://github.com/Sakhil-hossain">GitHub</a> •
-  <a href="https://www.linkedin.com/in/sakhil-hossain-2020s/">LinkedIn</a> •
-  <a href="https://leetcode.com/u/sakhilhossain_2020/">LeetCode</a> •
-  <a href="https://sakhil-hossain-portfolio.netlify.app">Portfolio</a>
+
+<p align="center">
+  <a href="https://github.com/Sakhil-hossain">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sakhil-hossain-2020s/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/sakhilhossain_2020/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://sakhil-hossain-portfolio.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
 </div>
@@ -76,10 +85,6 @@ I'm a Java Full Stack Developer who enjoys designing and developing reliable, sc
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sakhil-hossain&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakhil-hossain&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
-
 <br/><br/>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=Sakhil-hossain&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
@@ -88,17 +93,7 @@ I'm a Java Full Stack Developer who enjoys designing and developing reliable, sc
 
 ---
 
-<!-- ================= CONTRIBUTIONS ================= -->
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sakhil-hossain&bg_color=0d1117&color=58a6ff&line=6366f1&point=ffffff&area=true&hide_border=true" alt="Contribution Activity Graph"/>
-
-</div>
-
----
 
 <!-- ================= FEATURED PROJECTS ================= -->
 
